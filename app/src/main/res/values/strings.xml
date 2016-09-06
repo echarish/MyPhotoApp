@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPhotoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="TakePhotoTextLabel">Take Photo</string>
+    <string name="SavePhotoTextLabel">Save Photo</string>
+    <string name="InvertPhotoTextLabel">Invert</string>
+    <string name="OverlayPhotoTextLabel">Overlay</string>
+    <string name="UndoEffectsPhotoTextLabel">Undo</string>
+    <string name="ChooseFromGalleryLabel">Choose From Gallery</string>
+</resources>

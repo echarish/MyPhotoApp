@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.hksystems.myphotoapp.MyPhotoMainActivity">
+    <item
+        android:id="@+id/invert_photo"
+        android:orderInCategory="100"
+        android:title="@string/InvertPhotoTextLabel"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/overlay_photo"
+        android:orderInCategory="100"
+        android:title="@string/OverlayPhotoTextLabel"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/undo_photo_effects"
+        android:orderInCategory="100"
+        android:title="@string/UndoEffectsPhotoTextLabel"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/save_photo"
+        android:orderInCategory="100"
+        android:title="@string/SavePhotoTextLabel"
+        app:showAsAction="never"/>
+</menu>
